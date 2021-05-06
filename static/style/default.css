@@ -1,0 +1,41 @@
+.content {
+    max-width: 800px;
+    margin: auto;
+    text-align: center;
+  }
+
+.content .heading {
+    margin: auto;
+    font-size: 300%;
+    font-weight: bolder;
+}
+
+.content table {
+    align-self: center;
+}
+
+.td1{
+    background-color:rgb(129, 198, 238);
+    width:33%;
+    height: 200px;
+    font-size: 150px;
+}
+.td2{
+    width:33%;
+    height: 200px;
+    font-size: 150px;
+}
+
+.tiktak {
+    font-size: xx-large;
+    font-weight: bolder;
+}
+
+.winner {
+    display: none;
+    align-content: center;
+    left: 300px;
+    top: 350px;
+    font-size: 900px;
+}
+
